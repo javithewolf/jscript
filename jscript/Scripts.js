@@ -63,7 +63,7 @@ function demoArray() {
 }
 
 let user = {
-    name: 'Kevin',
+    name: 'Javier',
     sayHi: function() {
         showAlert('¡Hola, ' + this.name + '!');
     }
